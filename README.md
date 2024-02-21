@@ -1,4 +1,4 @@
-![LOGO-FINAL]([https://user-images.githubusercontent.com/116894398/220902273-c037c5fb-59ce-41cf-8f00-503e21372b23.png](https://i.postimg.cc/fbYC8ptH/Captura-de-pantalla-2024-02-21-131505.png))
+![LOGO-FINAL](https://user-images.githubusercontent.com/116894398/220902273-c037c5fb-59ce-41cf-8f00-503e21372b23.png](https://i.postimg.cc/fbYC8ptH/Captura-de-pantalla-2024-02-21-131505.png))
 
 
 ### Información General
